@@ -6,7 +6,7 @@ privacy-preserving *cardiology data toolbox* developed to enhance health data re
 
 #### Licensing
 
-All components are **open-source** nd governed by specific licenses. Please refer to each repository for detailed licensing information.
+All components are **open-source** and governed by specific licenses. Please refer to each repository for detailed licensing information.
 
 #### Core Components
 
